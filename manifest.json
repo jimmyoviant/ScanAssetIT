@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffffff",
+  "description": "ScanAsset",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "ScanAssetIT",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "ScanAsset",
+  "start_url": "/",
+  "theme_color": "#ffffff"
+}
