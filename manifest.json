@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "description": "aplikasi ini dipergunakan untuk melakukan pendataan asset kantor terutama asset perangkat IT",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "ScanAsset",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "ScanAsset",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "id": "ScanAsset"
+}
