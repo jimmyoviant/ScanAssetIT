@@ -1,10 +1,9 @@
 {
+  "id": "/ScanAssetIT/",
   "name": "ScanAssetIT",
   "short_name": "ScanAsset",
-  "start_url": "/",
+  "start_url": "./",
   "display": "standalone",
-  "orientation": "portrait",
-  "categories": ["business", "productivity"],
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
   "description": "ScanAsset Pendeteksi Aset Kantor",
