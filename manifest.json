@@ -1,0 +1,16 @@
+{
+  "name": "ScanAssetIT",
+  "short_name": "ScanAsset",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "description": "ScanAsset Pendeteksi Aset Kantor",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/jimmyoviant/ScanAsset/main/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
