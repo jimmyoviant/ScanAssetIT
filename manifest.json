@@ -8,8 +8,13 @@
   "description": "ScanAsset Pendeteksi Aset Kantor",
   "icons": [
     {
-      "src": "https://raw.githubusercontent.com/jimmyoviant/ScanAsset/main/logo 512x512",
+      "src": "https://raw.githubusercontent.com/jimmyoviant/ScanAsset/main/logo 512x512.png",
       "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/jimmyoviant/ScanAsset/main/logo 192x192.png",
+      "sizes": "192x192",
       "type": "image/png"
     }
   ]
